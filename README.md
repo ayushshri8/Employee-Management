@@ -8,7 +8,7 @@ A full-stack Human Resource Management System built with **FastAPI** (Python) an
 
 | Layer     | Technology                              |
 |-----------|-----------------------------------------|
-| Frontend  | React 19, Vite, Bootstrap 5, Bootstrap Icons |
+| Frontend  | React 19, Bootstrap 5, Bootstrap Icons |
 | Backend   | FastAPI 0.111, Python, Uvicorn          |
 | Database  | MongoDB (via PyMongo)                   |
 | Auth      | JWT (python-jose), bcrypt, TOTP (pyotp) |
